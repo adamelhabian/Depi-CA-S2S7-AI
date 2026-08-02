@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 .venv-Depi
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -219,4 +218,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 9e3c14e59db6045c12913c92b5edece8d7d0146c
+
