@@ -12,20 +12,26 @@ It documents my learning journey, covering machine learning concepts, data analy
 - Practice Exercises
 - Notes & Resources
 
-📦src
-┣ 📂DA
-┣ 📂ML
-┗ 📂python
-┃ ┣ 📂projects
-┃ ┣ 📂session-1
-┃ ┃ ┣ 📂assignment
-┃ ┃ ┣ 📂code
-┃ ┃ ┃ ┣ 📜basic.ipynb
-┃ ┃ ┃ ┗ 📜basic.py
-┃ ┃ ┗ 📂materials
-┃ ┣ 📂session-2
-┃ ┃ ┣ 📂assignments
-┃ ┃ ┣ 📂code
-┃ ┃ ┗ 📂materials
-┃ ┣ 📂session-3
-┃ ┗ 📂session-4
+## Repository Structure
+
+```text
+📦 src
+┣ 📂 DA
+┣ 📂 ML
+┗ 📂 python
+   ┣ 📂 projects
+   ┣ 📂 session-1
+   ┃ ┣ 📂 assignment
+   ┃ ┣ 📂 code
+   ┃ ┃ ┣ 📜 basic.ipynb
+   ┃ ┃ ┗ 📜 basic.py
+   ┃ ┗ 📂 materials
+   ┣ 📂 session-2
+   ┃ ┣ 📂 assignments
+   ┃ ┣ 📂 code
+   ┃ ┗ 📂 materials
+   ┣ 📂 session-3
+   ┗ 📂 session-4
+```
+
+> This repository will be continuously updated as I progress through the DEPI training and complete new projects.
